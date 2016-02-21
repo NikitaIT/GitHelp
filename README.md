@@ -29,7 +29,7 @@ git checkout -b название_ветки_то_что_мы_изменяем
 ```
 Вносим изменения в файл
 ```
-touch inc/header.html
+touch inc/index.html
 git commit -a -m "то_что_мы_изменяем"
 ```
 Назад в ветку мастер
